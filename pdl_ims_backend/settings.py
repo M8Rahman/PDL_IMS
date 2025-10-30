@@ -52,7 +52,8 @@ INSTALLED_APPS = [
     'inventory.apps.InventoryConfig',
     'procurement.apps.ProcurementConfig',
     'production.apps.ProductionConfig',
-    'assets.apps.AssetsConfig',  
+    'assets.apps.AssetsConfig',
+    'approvals.apps.ApprovalsConfig',  
     'reports.apps.ReportsConfig',
 ]
 
